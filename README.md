@@ -1,3 +1,11 @@
+# Password Generator
+
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
