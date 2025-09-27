@@ -3,6 +3,12 @@
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
+## Built With
+- React
+- TailwindCSS
+- Vite
+
+
 
 
 
